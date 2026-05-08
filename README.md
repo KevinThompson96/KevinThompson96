@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi, I'm Kevin! <br> Cybersecurity Professional
+
+## 👨‍💻 Cybersecurity Projects/Labs
+
+**Simulating Attacks and Monitoring an Enterprise Environment with Active Directory and Wazuh SIEM**
+
+[Active Directory/SOC Home Lab](https://github.com/KevinThompson96/Active-Directory-SOC-Home-Lab)
 
 <!--
 **KevinThompson96/KevinThompson96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
