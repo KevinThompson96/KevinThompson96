@@ -1,16 +1,16 @@
 # Hi, I'm Kevin! <br> Cybersecurity Professional
 
-## 👨‍💻 Check Out My Cybersecurity Projects/Labs 👇
+## Check Out My Cybersecurity Projects/Labs 👇
 
-**Simulating Attacks and Monitoring an Enterprise Environment with Active Directory and Wazuh SIEM**
+**🖥️ Simulating Attacks and Monitoring an Enterprise Environment with Active Directory and Wazuh SIEM**
 
 [Active Directory/SOC Home Lab](https://github.com/KevinThompson96/Active-Directory-SOC-Home-Lab)
 
-**Building a Honeypot in Microsoft Azure Using Microsoft Sentinel and a Global Attack Map**
+**☁️ Building a Honeypot in Microsoft Azure Using Microsoft Sentinel and a Global Attack Map**
 
 [Azure Honeypot](https://github.com/KevinThompson96/Azure-Honeypot)
 
-**Investigating a Compromised AWS Server as a Security Analyst (Labs)**
+**🚨 Investigating a Compromised AWS Server as a Security Analyst (Labs)**
 
 [Compromised AWS Server](https://github.com/KevinThompson96/Compromised-AWS-Server-Lab)
 
