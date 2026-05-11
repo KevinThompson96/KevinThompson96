@@ -10,6 +10,10 @@
 
 [Azure Honeypot](https://github.com/KevinThompson96/Azure-Honeypot)
 
+**Investigating a Compromised AWS Server as a Security Analyst (Labs)**
+
+[Compromised AWS Server](https://github.com/KevinThompson96/Compromised-AWS-Server-Lab)
+
 # Connect With Me!
 
 <div id="badges">
