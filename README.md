@@ -6,7 +6,7 @@
 
 [Active Directory/SOC Home Lab](https://github.com/KevinThompson96/Active-Directory-SOC-Home-Lab)
 
-**☁️ Building a Honeypot in Microsoft Azure Using Microsoft Sentinel and a Global Attack Map**
+**☁️ Building a Honeypot in Microsoft Azure and Monitoring with Microsoft Sentinel and a Global Attack Map**
 
 [Azure Honeypot](https://github.com/KevinThompson96/Azure-Honeypot)
 
