@@ -2,6 +2,10 @@
 
 ## Check Out My Cybersecurity Projects/Labs 👇
 
+**🚨 Triaging and Investigating Phishing Alerts with Splunk in TryHackMe's SOC Simulator**
+
+[TryHackMe SOC Simulation](https://github.com/KevinThompson96/TryHackMe-SOC-Simulator)
+
 **🖥️ Simulating Attacks and Monitoring an Enterprise Environment with Active Directory and Wazuh SIEM**
 
 [Active Directory/SOC Home Lab](https://github.com/KevinThompson96/Active-Directory-SOC-Home-Lab)
