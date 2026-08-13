@@ -18,6 +18,10 @@
 
 [Compromised AWS Server](https://github.com/KevinThompson96/Compromised-AWS-Server-Lab)
 
+**🖥️ Building a Microsoft 365 Business Premium Lab and Designing an End-To-End Onboarding Workflow**
+
+[Microsoft 365](https://github.com/KevinThompson96/Microsoft-365-Administration-Lab )
+
 # Connect With Me!
 
 <div id="badges">
